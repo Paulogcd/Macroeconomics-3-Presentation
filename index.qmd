@@ -1,0 +1,16 @@
+---
+title: "Macroeconomic 3 Presentation"
+---
+
+Hello, we are SHARMA Vivan and GUGELMO CAVALHEIRO DIAS Paulo, and this is the website of our Macroeconomic 3 presentation, dedicated to the review of the empirical facts and macroeconomic theory behind the paper of Junia Howell, and James R. Elliott, *Damages Done: The Longitudinal Impacts of Natural Hazards on Wealth Inequality in the United States*, available [online at this link](https://academic.oup.com/socpro/article-abstract/66/3/448/5074453?redirectedFrom=fulltext) or [here](https://disasterphilanthropy.org/wp-content/uploads/2021/06/Damages-Done.pdf).
+
+Here are some useful resources :
+
+- [The slides of our presentation]() ([Here the LaTeX code]())
+
+- [An additional description of the main empirical facts of the paper]()
+
+- [An additional and more detailed review of the whole paper](https://paulogcd.com/blog/...)
+
+- [A video presentation about "How Natural Disasters Feed Social Inequality" by James R. Elliott](https://youtu.be/Zlo7lESKWIo?si=z2rjcuGWfNZN63zr)
+

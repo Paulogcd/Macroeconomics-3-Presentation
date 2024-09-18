@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Macroeconomic 3 Presentation"
+  navbar:
+    title: false
+    background: '#e0e0e0'
+    left:
+      - href: ../
+        text: Home
+      - href: index.qmd
+        text: Our presentation
+      - href: Slides
+        text: Slides
+      - href: Article
+        text: Article
+      - href: about.qmd
+        text: About
+      - icon: github
+        href: https://github.com/Paulogcd/Macroeconomics-3-Presentation
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
