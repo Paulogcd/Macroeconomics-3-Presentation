@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.24)  20 SEP 2024 17:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.9.24)  20 SEP 2024 18:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -901,19 +901,19 @@ Package pdftex.def Info: pictures/Table_4_2.png  used on input line 134.
 <pictures/Figure_3.png, id=157, 899.36pt x 599.23875pt>
 File: pictures/Figure_3.png Graphic file (type png)
 <use pictures/Figure_3.png>
-Package pdftex.def Info: pictures/Figure_3.png  used on input line 146.
+Package pdftex.def Info: pictures/Figure_3.png  used on input line 149.
 (pdftex.def)             Requested size: 307.28789pt x 199.16666pt.
  [18
 
  </Users/pgcd/Documents/Sciences_Po/Master/S3/2_Macro3/Presentation/slides/pictures/Figure_3.png>] [19
 
 ]
-Overfull \hbox (0.83125pt too wide) in paragraph at lines 162--162
+Overfull \hbox (0.83125pt too wide) in paragraph at lines 165--165
 []$\OT1/cmr/m/n/10.95 .  
  []
 
 
-Overfull \hbox (4.32916pt too wide) in paragraph at lines 162--162
+Overfull \hbox (4.32916pt too wide) in paragraph at lines 165--165
 []$ 
  []
 
@@ -942,7 +942,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  131i,13n,132p,1878b,744s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb>
-Output written on /Users/pgcd/Documents/Sciences_Po/Master/S3/2_Macro3/Presentation/slides/slides.pdf (20 pages, 319359 bytes).
+Output written on /Users/pgcd/Documents/Sciences_Po/Master/S3/2_Macro3/Presentation/slides/slides.pdf (20 pages, 319452 bytes).
 PDF statistics:
  222 PDF objects out of 1000 (max. 8388607)
  176 compressed objects within 2 object streams
