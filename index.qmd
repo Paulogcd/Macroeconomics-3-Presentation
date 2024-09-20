@@ -10,7 +10,7 @@ Here are some useful resources :
 
 - [An additional description of the main empirical facts of the paper](complement.qmd)
 
-- [An additional and more detailed review of the whole paper](https://paulogcd.com/blog/3_presentation_macro_3)
+- [An additional and more detailed review of the whole paper](./blog/posts/3_presentation_macro_3)
 
 - [A video presentation about "How Natural Disasters Feed Social Inequality" by James R. Elliott](https://youtu.be/Zlo7lESKWIo?si=z2rjcuGWfNZN63zr)
 
