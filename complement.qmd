@@ -2,5 +2,8 @@
 title: "Complement"
 ---
 
-This is a complementary description of the empirical facts we focus on during our presentation of this article. 
+:::{.callout-warning}
+    This is a draft for our Macro3 presentation. It is currently under construction. 
+:::
 
+This is a complementary description of the empirical facts we focus on during our presentation of this article. 
