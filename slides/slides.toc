@@ -1,5 +1,7 @@
 \beamer@sectionintoc {1}{Introduction}{2}{0}{1}
 \beamer@sectionintoc {2}{Study Design}{5}{0}{2}
-\beamer@sectionintoc {3}{Wealth Inequality : the general effects}{7}{0}{3}
-\beamer@sectionintoc {4}{Wealth Inequality : a concrete example}{9}{0}{4}
-\beamer@sectionintoc {5}{Conclusion}{11}{0}{5}
+\beamer@subsectionintoc {2}{1}{Explaining Wealth with Socioeconomic Variables}{7}{0}{2}
+\beamer@subsectionintoc {2}{2}{Datasets}{8}{0}{2}
+\beamer@sectionintoc {3}{Wealth Inequality : the general effects}{13}{0}{3}
+\beamer@sectionintoc {4}{Wealth Inequality : a concrete example}{17}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{19}{0}{5}

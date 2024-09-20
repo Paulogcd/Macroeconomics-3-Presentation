@@ -4,10 +4,13 @@
 \usepackage{bm}
 \usepackage{hyperref}
 \usepackage{csquotes}
+\usepackage{graphicx}
 
 \DeclareSymbolFont{matha}{OML}{txmi}{m}{it}% txfonts
 \DeclareMathSymbol{\varv}{\mathord}{matha}{118}
 \usetheme{metropolis}
+
+\graphicspath{ {pictures/Table_4_1.png}{pictures/Table_4_2.png}{pictures/Figure_3.png} }
 
 \usefonttheme{serif} % default family is serif
 
@@ -28,7 +31,7 @@
 
 \section{Introduction}
 
-\begin{frame}
+\begin{frame}{\secname}
     Study objects of the paper : 
     \begin{itemize}
         \item Contribution of Natural Hazards to Wealth Inequality
@@ -47,24 +50,115 @@
 \end{frame}
 
 \section{Study Design}
-    \begin{frame}
-        1. Explaining Wealth with Socioeconomic Variables
-        2. Datasets 
+    \begin{frame}{\secname}
+        \begin{itemize}
+            \item Explaining Wealth with Socioeconomic Variables
+            \item Datasets 
+        \end{itemize}
     \end{frame}
+
+\subsection{Explaining Wealth with Socioeconomic Variables}
+\begin{frame}{\subsecname}
+    What is the effect of natural hazard on wealth inequalities ? 
+    How does this effect vary in function of socioeconomic variables associated to an individual ? 
+
+    \begin{equation*}
+        \widehat{wealth} = \widehat{\alpha} + \widehat{\beta} \cdot \log(\text{natural hazard damages}) + \widehat{\gamma} \cdot X
+    \end{equation*}
+
+    With $X$ socioeconomic variables (at the individual, local, and county levels) :
+    Race, Foreign Born, Education, Married, Homeownership, Socioeconomic Status of the Neighborhood, etc...
+    (discussed below)
+\end{frame}
+
+\subsection{Datasets}
+\begin{frame}{\subsecname}
+\begin{itemize}
+    \item \textbf{Panel Study Income Dynamics (PSID)}
+    \item \textbf{Spatial Hazard Events and Losses Database (SHELD)}
+    \item \textbf{Census} 
+    \item \textbf{Federal Emergency Management Agency (FEMA) Projects Summary (2016)}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{\subsecname}
+    \textbf{Panel Study Income Dynamics (PSID)}
+    \begin{itemize}
+        \item From 1968 to now, with a modification of followed individuals in 1999.
+        \item Used sample : from 1999 to 2013, with a two-years interview period. 
+        \item Use of the restricted-access, geocoded version of the survey, with information on the neighborhood of the respondents.
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{\subsecname}
+    \textbf{Spatial Hazard Events and Losses Database (SHELD)}
+    \begin{itemize}
+        \item Maintained by the Hazards and Vulnerability Research Institute (HVRI) from 1960 to now.
+        \item They collect information on 18 types of natural hazards and their associated fatalities 
+        and property damages. 
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{\subsecname}
+    \textbf{Census}
+    \\ Three datasets, from two different census : 
+    \begin{itemize}
+        \item 2000 U.S Decennial Census Long Form
+        \item 2006-2010 and 2011-2015 American Community Survey 5-year Summary Files
+    \end{itemize}
+    Use : 
+    \begin{itemize}
+        \item Socioeconomic status of neighborhoods.
+        \item Total population. 
+        \item Urban / rural status. 
+    \end{itemize}
+\end{frame}
+
+\begin{frame}{\subsecname}
+    \textbf{Federal Emergency Agency (FEMA) Projects Summary (2016)}
+    \begin{itemize}
+        \item Immediate Needs Funding (INF)
+        \item Individual and Household Program (IHP)
+        \item local husing vouchers, temporary units, financial grants, replaceent of property, etc...
+    \end{itemize}
+\end{frame}
 
 \section{Wealth Inequality : the general effects}
-    \begin{frame}
-        Include Table 4.
+
+    \begin{frame}{\secname}
+        \includegraphics[totalheight=7cm,width=1\textwidth]{pictures/Table_4_1.png}
     \end{frame}
 
+    \begin{frame}{\secname}
+        \includegraphics[width=1\textwidth]{pictures/Table_4_2.png}
+    \end{frame}
+
+    \begin{frame}{\secname}
+        Wealth : Definition of PSID, sum of saving accounts, checking accounts, real estate holdings, equity, vehicles,
+        farms, businesses, stocks, annuities / IRAs, minus all reported debts.
+        \\ Dollars : logarithm, standardizing all values to 2012 dollars. 
+    \end{frame}
+
+
 \section{Wealth Inequality : a concrete example}
-    \begin{frame}
-        Include Figure 3.
+    \begin{frame}{\secname}
+        \includegraphics[totalheight=7cm,width=1\textwidth]{pictures/Figure_3.png}
     \end{frame}
 
 \section{Conclusion}
-    \begin{frame}
-        Conclusion. 
+    \begin{frame}{\secname}
+        In a broader scale, natural hazards shocks do provoke an increase in wealth disparities. 
+        This paper points out \underline{the role of}
+        \underline{natural hazards and insurance in the increase of the wealth gap}.
+
+        In front of environmental risks, agents are differently exposed not only due to budget constraints,
+        but also due to \underline{lacking} \underline{insurance schemes that would provide a better and equitable}
+        \underline{coverage}.
+        
+        The authors call for further research on the precise mechanisms that make natural hazards affect
+        wealth inequalities. Also, they underly the need for 
+        \underline{a reform of the current insurance system, that 
+        is too much based} \underline{on wealth and not on vulnerability}.
     \end{frame}
 
 \end{document}
