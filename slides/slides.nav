@@ -14,51 +14,49 @@
 \headcommand {\sectionentry {2}{Study Design}{5}{Study Design}{0}}
 \headcommand {\slideentry {2}{0}{1}{5/5}{}{0}}
 \headcommand {\beamer@framepages {5}{5}}
-\headcommand {\slideentry {2}{0}{2}{6/6}{}{0}}
+\headcommand {\beamer@subsectionpages {5}{5}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{6}{Explaining Wealth with Socioeconomic Variables}}
+\headcommand {\slideentry {2}{1}{1}{6/6}{Explaining Wealth with Socioeconomic Variables}{0}}
 \headcommand {\beamer@framepages {6}{6}}
-\headcommand {\beamer@subsectionpages {5}{6}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{7}{Explaining Wealth with Socioeconomic Variables}}
-\headcommand {\slideentry {2}{1}{1}{7/7}{Explaining Wealth with Socioeconomic Variables}{0}}
+\headcommand {\beamer@subsectionpages {6}{6}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{7}{Datasets}}
+\headcommand {\slideentry {2}{2}{1}{7/7}{Datasets}{0}}
 \headcommand {\beamer@framepages {7}{7}}
-\headcommand {\beamer@subsectionpages {7}{7}}
-\headcommand {\beamer@subsectionentry {0}{2}{2}{8}{Datasets}}
-\headcommand {\slideentry {2}{2}{1}{8/8}{Datasets}{0}}
+\headcommand {\slideentry {2}{2}{2}{8/8}{Datasets}{0}}
 \headcommand {\beamer@framepages {8}{8}}
-\headcommand {\slideentry {2}{2}{2}{9/9}{Datasets}{0}}
+\headcommand {\slideentry {2}{2}{3}{9/9}{Datasets}{0}}
 \headcommand {\beamer@framepages {9}{9}}
-\headcommand {\slideentry {2}{2}{3}{10/10}{Datasets}{0}}
+\headcommand {\slideentry {2}{2}{4}{10/10}{Datasets}{0}}
 \headcommand {\beamer@framepages {10}{10}}
-\headcommand {\slideentry {2}{2}{4}{11/11}{Datasets}{0}}
+\headcommand {\slideentry {2}{2}{5}{11/11}{Datasets}{0}}
 \headcommand {\beamer@framepages {11}{11}}
-\headcommand {\slideentry {2}{2}{5}{12/12}{Datasets}{0}}
+\headcommand {\beamer@sectionpages {5}{11}}
+\headcommand {\beamer@subsectionpages {7}{11}}
+\headcommand {\sectionentry {3}{Wealth Inequality : the general effects}{12}{Wealth Inequality : the general effects}{0}}
+\headcommand {\slideentry {3}{0}{1}{12/12}{}{0}}
 \headcommand {\beamer@framepages {12}{12}}
-\headcommand {\beamer@sectionpages {5}{12}}
-\headcommand {\beamer@subsectionpages {8}{12}}
-\headcommand {\sectionentry {3}{Wealth Inequality : the general effects}{13}{Wealth Inequality : the general effects}{0}}
-\headcommand {\slideentry {3}{0}{1}{13/13}{}{0}}
+\headcommand {\slideentry {3}{0}{2}{13/13}{}{0}}
 \headcommand {\beamer@framepages {13}{13}}
-\headcommand {\slideentry {3}{0}{2}{14/14}{}{0}}
+\headcommand {\slideentry {3}{0}{3}{14/14}{}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\slideentry {3}{0}{3}{15/15}{}{0}}
+\headcommand {\slideentry {3}{0}{4}{15/15}{}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\slideentry {3}{0}{4}{16/16}{}{0}}
+\headcommand {\beamer@sectionpages {12}{15}}
+\headcommand {\beamer@subsectionpages {12}{15}}
+\headcommand {\sectionentry {4}{Wealth Inequality : a concrete example}{16}{Wealth Inequality : a concrete example}{0}}
+\headcommand {\slideentry {4}{0}{1}{16/16}{}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\beamer@sectionpages {13}{16}}
-\headcommand {\beamer@subsectionpages {13}{16}}
-\headcommand {\sectionentry {4}{Wealth Inequality : a concrete example}{17}{Wealth Inequality : a concrete example}{0}}
-\headcommand {\slideentry {4}{0}{1}{17/17}{}{0}}
+\headcommand {\slideentry {4}{0}{2}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\slideentry {4}{0}{2}{18/18}{}{0}}
+\headcommand {\beamer@sectionpages {16}{17}}
+\headcommand {\beamer@subsectionpages {16}{17}}
+\headcommand {\sectionentry {5}{Conclusion}{18}{Conclusion}{0}}
+\headcommand {\slideentry {5}{0}{1}{18/18}{}{0}}
 \headcommand {\beamer@framepages {18}{18}}
-\headcommand {\beamer@sectionpages {17}{18}}
-\headcommand {\beamer@subsectionpages {17}{18}}
-\headcommand {\sectionentry {5}{Conclusion}{19}{Conclusion}{0}}
-\headcommand {\slideentry {5}{0}{1}{19/19}{}{0}}
+\headcommand {\slideentry {5}{0}{2}{19/19}{}{0}}
 \headcommand {\beamer@framepages {19}{19}}
-\headcommand {\slideentry {5}{0}{2}{20/20}{}{0}}
-\headcommand {\beamer@framepages {20}{20}}
-\headcommand {\beamer@partpages {1}{20}}
-\headcommand {\beamer@subsectionpages {19}{20}}
-\headcommand {\beamer@sectionpages {19}{20}}
-\headcommand {\beamer@documentpages {20}}
-\headcommand {\gdef \inserttotalframenumber {15}}
+\headcommand {\beamer@partpages {1}{19}}
+\headcommand {\beamer@subsectionpages {18}{19}}
+\headcommand {\beamer@sectionpages {18}{19}}
+\headcommand {\beamer@documentpages {19}}
+\headcommand {\gdef \inserttotalframenumber {14}}
