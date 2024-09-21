@@ -2,11 +2,7 @@
 title: "Complement"
 ---
 
-:::{.callout-warning}
-    This is a draft for our Macro3 presentation. It is currently under construction. 
-:::
-
-This complement aims to summarize in a detailed fashion the following article for a Macroeconomics 3 presentation. 
+This complement aims to summarize in a detailed fashion the following article for our Macroeconomics 3 presentation. 
 
 > Article : Junia Howell, James R. Elliott, Damages Done: The Longitudinal Impacts of Natural Hazards on Wealth Inequality in the United States, available [here](https://academic.oup.com/socpro/article-abstract/66/3/448/5074453?redirectedFrom=fulltext).
 

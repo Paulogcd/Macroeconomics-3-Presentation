@@ -12,10 +12,10 @@ website:
         text: Home
       - href: index.qmd
         text: Our presentation
-      - href: Slides
+      - href: slides/slides.pdf
         text: Slides
-      - href: Article
-        text: Article
+      - href: complement.qmd
+        text: Complement
       - href: about.qmd
         text: About
       - icon: github
